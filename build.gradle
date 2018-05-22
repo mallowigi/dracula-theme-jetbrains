@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.3.1'
+}
+
+group 'com.mallowigi'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+intellij {
+    pluginName 'Dracula Theme'
+    version '182.2371.4'
+    updateSinceUntilBuild true
+
+    publishPlugin {
+        username 'Mallowigi'
+        password
+    }
+
+    patchPluginXml {
+        version "1.0"
+        sinceBuild '181.000'
+    }
+}
+patchPluginXml {
+    changeNotes """
+        Add Dracula Theme to be used with Material Theme UI plugin
+      """
+}

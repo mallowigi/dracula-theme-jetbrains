@@ -1,0 +1,48 @@
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Copyright (c) 2018 Chris Magnussen and Elior Boukhobza
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  ~
+  ~
+  -->
+<mtTheme>
+    <name>Dracula</name>
+    <themeId>dracula</themeId>
+    <dark>true</dark>
+    <editorColorsScheme>Dracula</editorColorsScheme>
+    <colors>
+        <color id="background" value="282A36"></color>
+        <color id="foreground" value="F8F8F2"></color>
+        <color id="text" value="6272A4"></color>
+        <color id="selectionBackground" value="44475A"></color>
+        <color id="selectionForeground" value="8BE9FD"></color>
+        <color id="button" value="424450"></color>
+        <color id="secondaryBackground" value="44475A"></color>
+        <color id="disabled" value="6272A4"></color>
+        <color id="contrast" value="191A21"></color>
+        <color id="tableSelected" value="44475A"></color>
+        <color id="secondBorder" value="21222C"></color>
+        <color id="highlight" value="6272A4"></color>
+        <color id="treeSelection" value="44475A50"></color>
+        <color id="notifications" value="1D2228"></color>
+        <color id="accent" value="BD93F9"></color>
+    </colors>
+</mtTheme>
