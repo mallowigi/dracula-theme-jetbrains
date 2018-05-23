@@ -29,3 +29,10 @@ It's inside the _External Themes_ option on the list.
 ![Theme Switch](https://i.imgur.com/y79BlpQ.png)
 
 ![Contrast Mode](https://i.imgur.com/l1MduR8.png)
+
+## License
+
+The project is under the [MIT License](https://github.com/mallowigi/dracula-theme-jetbrains/blob/master/LICENSE).
+
+- The Dracula Scheme and Colors are copyright of [Dracula Theme](https://github.com/dracula/dracula-theme/)
+- The implementation is based off the [Material Theme UI plugin](https://github.com/ChrisRM/material-theme-jetbrains)
