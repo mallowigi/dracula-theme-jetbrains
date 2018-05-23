@@ -1,6 +1,6 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
     <option name="LINE_SPACING" value="1.5" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <colors>
         <option name="CARET_COLOR" value="cccccc" />
