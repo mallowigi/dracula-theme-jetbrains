@@ -1,0 +1,3 @@
+[submodule "src/main/resources/colors/jetbrains"]
+	path = src/main/resources/colors/jetbrains
+	url = git@github.com:dracula/jetbrains.git
