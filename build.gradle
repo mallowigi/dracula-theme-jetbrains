@@ -23,11 +23,11 @@ intellij {
 
     publishPlugin {
         username 'Mallowigi'
-        password
+        password System.getenv('publishPassword')
     }
 
     patchPluginXml {
-        version "1.0"
+        version "1.1"
         sinceBuild '181.000'
     }
 }
