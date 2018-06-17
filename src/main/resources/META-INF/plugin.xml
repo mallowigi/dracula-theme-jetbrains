@@ -1,11 +1,14 @@
 <idea-plugin>
     <id>com.mallowigi.dracula</id>
     <name>Dracula Theme</name>
+    <version>@version@</version>
     <vendor email="heliosaian@gmail.com" url="http://www.material-theme.com">Material Theme</vendor>
 
     <description><![CDATA[
     Add Dracula Theme (https://draculatheme.com/) to be used alongside the Material Theme UI plugin (https://www.material-theme.com).
     ]]></description>
+
+    <idea-version since-build="173.3655.1"/>
 
     <depends>com.chrisrm.idea.MaterialThemeUI</depends>
     <depends>com.intellij.modules.platform</depends>
