@@ -28,6 +28,8 @@
     <themeId>dracula</themeId>
     <dark>true</dark>
     <editorColorsScheme>Dracula</editorColorsScheme>
+    <accentColor>BD93F9</accentColor>
+    <excludedColor>34353D</excludedColor>
     <colors>
         <color id="background" value="282A36"></color>
         <color id="foreground" value="F8F8F2"></color>
@@ -43,6 +45,5 @@
         <color id="highlight" value="6272A4"></color>
         <color id="treeSelection" value="44475A50"></color>
         <color id="notifications" value="1D2228"></color>
-        <color id="accent" value="BD93F9"></color>
     </colors>
 </mtTheme>
